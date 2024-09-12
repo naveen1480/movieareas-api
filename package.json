@@ -1,0 +1,24 @@
+{
+  "name": "movieareas-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naveen",
+  "license": "ISC",
+  "description": "create api from nodejs",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen1480/movieareas-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naveen1480/movieareas-api/issues"
+  },
+  "homepage": "https://github.com/naveen1480/movieareas-api#readme"
+}
